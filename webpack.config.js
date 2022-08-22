@@ -11,5 +11,5 @@ module.exports = {
     plugins: [
         new Dotenv()
     ],
-    mode: 'development'
+    mode: 'production'
 };
